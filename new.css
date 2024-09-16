@@ -1,0 +1,16 @@
+ul,ol{
+    list-style: circle;
+    background-color: blueviolet;
+    color: blueviolet;
+}
+ul{
+  display: flex;  
+
+}
+ul ui{
+    list-style:none;
+
+}
+ul a{
+    text-decoration: none;
+}
